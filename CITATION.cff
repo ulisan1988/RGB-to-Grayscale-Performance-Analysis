@@ -1,0 +1,10 @@
+
+cff-version: 1.2.0
+message: "If you use this software or the experimental data, please cite this repository."
+title: "RGB-to-Grayscale Performance Analysis"
+authors:
+  - family-names: "Santos López"
+    given-names: "Ulises"
+version: 1.0.0
+date-released: 2026-11-11
+repository-code: "https://github.com/ulisan1988/RGB-to-Grayscale-Performance-Analysis"
