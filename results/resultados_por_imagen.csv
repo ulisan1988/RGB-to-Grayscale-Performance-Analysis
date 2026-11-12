@@ -1,0 +1,31 @@
+﻿Imagen,Método,Tiempo promedio (ms),Desviación estándar (ms),Repeticiones
+image (10).jpg,Promedio simple,14.8080228,0.649479397,50
+image (10).jpg,Modelo Luma,18.4355264,1.032875373,50
+image (10).jpg,Desaturación,189.1889727,64.58132617,50
+image (9).jpg,Promedio simple,14.5677424,1.001912111,50
+image (9).jpg,Modelo Luma,17.96241234,0.90160952,50
+image (9).jpg,Desaturación,178.2851361,47.75852892,50
+image (8).jpg,Promedio simple,14.93449344,0.478291529,50
+image (8).jpg,Modelo Luma,18.02659028,1.082739562,50
+image (8).jpg,Desaturación,175.0980845,45.86379227,50
+image (7).jpg,Promedio simple,14.16573774,0.573486652,50
+image (7).jpg,Modelo Luma,18.01402196,0.802993616,50
+image (7).jpg,Desaturación,156.9649561,25.78974728,50
+image (6).jpg,Promedio simple,19.74307316,1.010557276,50
+image (6).jpg,Modelo Luma,23.3795545,1.496051287,50
+image (6).jpg,Desaturación,148.1321423,5.625878112,50
+image (5).jpg,Promedio simple,14.57719386,0.963684863,50
+image (5).jpg,Modelo Luma,18.3335319,1.312919755,50
+image (5).jpg,Desaturación,173.505135,44.78367715,50
+image (4).jpg,Promedio simple,14.6474982,1.009907089,50
+image (4).jpg,Modelo Luma,17.7851467,1.100602966,50
+image (4).jpg,Desaturación,176.3165562,46.15915354,50
+image (3).jpg,Promedio simple,15.03744264,1.678185943,50
+image (3).jpg,Modelo Luma,17.8689503,1.131465924,50
+image (3).jpg,Desaturación,171.6633676,44.65366547,50
+image (2).jpg,Promedio simple,16.5218854,3.108925913,50
+image (2).jpg,Modelo Luma,17.45093818,1.218162666,50
+image (2).jpg,Desaturación,148.3178061,5.175049423,50
+image (1).jpg,Promedio simple,14.72181344,1.084487631,50
+image (1).jpg,Modelo Luma,21.25902488,2.575165955,50
+image (1).jpg,Desaturación,170.2020423,44.2549058,50
